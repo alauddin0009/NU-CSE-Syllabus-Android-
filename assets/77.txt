@@ -1,0 +1,17 @@
+
+<h2><strong>CSE-426 </strong><strong>Simulation and Modeling</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Concept of system: </strong>System components, continuous and discrete systems.</p>
+<p><strong>System modeling</strong>: Types of models, static and dynamic models, physical and mathematical models, continuous and discrete models. Principles used in system modeling. Study if system model;&nbsp; system design, system model analysis and postulation.</p>
+<p><strong>System Dynamics</strong>: Need for simulation, types of simulation, techniques of simulation. Comparison of simulated and analytical methods. Continuous system simulation. Differential equation model.</p>
+<p>Exponential growth models and decay models, generalization of growth models. System dynamics diagrams. Multi-sigment models, representation of time delay. Probability concepts in simulation; Stochastic variable, discrete and and continuous probability functions,. Generations of random numbers. Generating discrete distributions. Non-uniform continuously distributed random numbers, Rejection method.</p>
+<p><strong>Discrete System Simulation: </strong>Discrete event simulation, activity simulation, representation of time, generation of arrival patterns, entities, resources, queues. Measures of queues and mathematical solution of queuing problems.</p>
+<p><strong>Discrete simulation languages: </strong>General Purpose simulation, System language (GPSS) and&nbsp; SIMSCRIPT.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>1.System Simulation by Geoffery Grodon, Prentice Hall</p>
+<p>2.Discrete-event System Simulation by Banks J and Carson JS, Prentice Hall.</p>
+<p>3.Simulation Modeling with Pascal, Prentice Hall.</p>
+<p>4.System Simulation with digital computer. Narsing deo.</p>

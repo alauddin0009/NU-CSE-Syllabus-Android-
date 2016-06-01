@@ -1,0 +1,15 @@
+
+<h2><strong>CSE-125 Integral Calculus and Differential Equation</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Indefinite Integrals as Inverse of Derivatives:</strong> Techniques of integration; Definite integral as limit of a sum; Interpretation as area; Fundamental theorem of integral calculus (for continuous functions); Determination of length and area of plain curve; Volume and surface area of revolution.</p>
+<p><strong>Introduction to linear, Nonlinear and Inhomogeneous Differential Equations: </strong>Solutions of ordinary differential equations; Solutions by the method of variation of parameters and indetermined coefficients.</p>
+<p><strong>Differential Equations:</strong> Power series solutions about singular points; Solutions of partial differential equations by the method of separation of variables.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Dr. Abdul Matin, Integral Calculus .</p>
+<p>B.C Das &amp; B.N Mukherjee, Integral Calculus.</p>
+<p>Abu Yusuf, Differential Equations.</p>
+<p>Dr. Abdul Matin, Differential Equations.</p>

@@ -1,0 +1,14 @@
+
+<h2><strong>CSE-314 Engineering Mathematics</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Series Solutions of Differential Equation: P</strong>ower series method, theory of power series method, Legendre&rsquo;s equation, Legendre&rsquo;s polynomials. Bessel&rsquo;s equation and Bessel&rsquo;s functions. Strum &ndash; Liouville Problems, Orthogonal function. Orthogonal Eigenfunction Expansions.</p>
+<p><strong>Complex Numbers and function:</strong> Complex numbers, Complex plane. Polar form of complex numbers, powers and roots. Derivative, Analytic function. Cauchy- Riemann equations. Geometry of analytical functions: Conformal mapping. Exponential function, Trigonometric functions, Hyperbolic functions, Linear fractional transformational</p>
+<p><strong>Complex Integration: </strong>Line integral in the complex plane, Cauchy&rsquo;s integral theorem, Cauchy&rsquo;s integral formula, derivatives of analytic functions.</p>
+<p><strong>Power series, Taylor series:</strong> Sequence, Series, Convergence tests, power series, function given by power series, Taylor series and maclaurin series, uniform convergence, Optional.</p>
+<p><strong>Laurent Series, Residue Integration:</strong> Laurent Series, Singularities and Zeros, Infinity, Residue Integration method, Evaluation of real integrals.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Book References:</strong></p>
+
+<p>Erwin Kreyszig, Advanced Engineering Mathematics</p>

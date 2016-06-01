@@ -1,0 +1,27 @@
+
+<h2><strong>CSE-213 Operating System</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction: </strong>Definition OS, Mainframe, desktop systems, multiprocessor</p>
+<p>Systems, distributed systems, clustered systems, real-time systems, handheld systems, computing environments</p>
+<p><strong>OS Structures: </strong>System components, OS services, system calls, system programs, system structure, virtual machines, system design and implementation</p>
+<p><strong>Processes:</strong> Process concept, Process state, Process control block, threads, Process scheduling, operation on processes, cooperating Processes, interprocesses communication,</p>
+<p>Communication in client-server system.</p>
+<p><strong>CPU scheduling: </strong>Basic concepts, CPU-I/O bust cycle, CPU scheduler, preemptive scheduling, dispatcher, scheduling criteria,</p>
+<p>Scheduling algorithms, multiple-processor scheduling, real-time scheduling ,algorithm evaluation, process scheduling models: ex-windows 2000, Linux</p>
+<p><strong>Process Synchronization</strong>: Background Process Synchronization ,critical section problem, semaphore, classical problems of synchronization, critical regions, OS Synchronization ,Atomic transaction</p>
+<p><strong>Deadlocks:</strong> System model, Dead Lock characterization, Methods for handling Deadlock, Deadlock Avoidance, Dead Lock Detection, Recovery from Dead lock</p>
+<p><strong>Memory management:</strong></p>
+<p>Background: Address binding, Logical vs Physical Address Space, Dynamic Loading, Dynamic Linking and Shared Libraries, Overlays, Swapping, Contiguous Memory Allocation, Paging, Segmentation, Segmentation with paging.</p>
+<p><strong>Virtual Memory:</strong> Background of Virtually Memory (VM)</p>
+<p>Demand Paging, Process Creation, Page Replacement, Different Page, Replacement Algorithms, Thrashing: Working Set Model, Page-Fault Frequency</p>
+<p><strong>File Concept: </strong>File Attributes, File Operations, File Types, File Structure, File Access Methods, Directory Structure, file System Mounting, File Sharing, File Protection</p>
+<p><strong>File System Implementation:</strong> File System Structure, File System Implementation, Overview, Partitions and Mounting Virtual File Systems, Directory Implementation, Allocation Methods, Free-Space Management, Recovery: Consistency Checking, Backup and Restore Log-Structure File System.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Book: </strong></p>
+<p>&nbsp;</p>
+
+<p>Silberschatz, Galvin, Peterson, Operating system Concepts, sixth Edition.</p>
+<p>A.S.Tanenbaum,OS,Prentice Hall</p>
+<p>P.B. Hausen,OS Concepts, Prentice Hall</p>
+<p>S. Madnick and J.Donovon, OS, McGraw Hill</p>

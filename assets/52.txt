@@ -1,0 +1,17 @@
+
+<h2><strong>CSE-323 Numerical Analysis</strong></h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Numerical solution of polynomials:</strong> general algebraic equation, integration;</p>
+<p><strong>Numerical solution of simultaneous linear equation:</strong> matrix operations; least-squares curve flitting techniques; interpolation polynomials;</p>
+<p><strong>Numerical solution of ordinary differential equation:</strong> Euler method, Multi-step methods, Adams-Moulton, Adams-Bashforth method, predictor-corrector scheme, Runge-Kutta methods, stiffness, Error estimation and step size control. Detailed error analysis of several techniques. Root finding for non linear equations, Numerical methods for initial value problems for ordinary differential equations.</p>
+<p><strong>Direct methods for systems of linear equations:</strong> Gaussian Elimination interpreted as matrix factorization, pivoting strategies, techniques for special classes of matrices.</p>
+<p><strong>Iterative techniques for systems of linear equations:</strong> Jacobi and Gauss- Seidel iteration, their analysis via matrix and vector norms, the spectral radius of a matrix Eigenvalue problems for matrices illustrative programming projects and use of computer to implement the projects.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>J.H. Mathews, Numerical Methods for Computer Science, Engineering and Mathematics, Prentice-Hall, 1987.</p>
+<p>B. Irons and N.G. Shrive, Numerical methods in Engineering and applies Science, Ellis Horwood, 1987.</p>
+<p>I. Jacques and C. Judd, Numerical Analysis, Chapman and Hall, 19878.</p>
+<p>M.J. Marron, Numerical Analysis: A practical approach, Macmillan, 1987.</p>

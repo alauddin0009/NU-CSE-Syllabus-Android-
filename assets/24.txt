@@ -1,0 +1,6 @@
+
+<h2><strong>CSE-215 Digital Logic Design Practical</strong></h2>
+<p>3 hours in a week, 1.50 Cr.</p>
+<p>Laboratory works based on CSE-214</p>
+<p>&nbsp;</p>
+<p>Minimize and Implementation of Boolean Functions Using Logic Gates, Design Half Adder and Full Adder, Design Half Subtractor and Full Subtractor, Verify the Truth Table of S-R, T, D Flip-Flop, Verify the Truth Table of J-K, Prepare Different Type Shift Resister and Check Its Operation, Design Synchronous Counter, Design Asynchronous Counter, Design Ripple Counter, Design Johnson and Ring counter, Verify the Operation of Encoder and Decoder, Verify the Operation of Multiplexer, De-Multiplexer, Verify the Operation of D/A and A/D Converter.</p>

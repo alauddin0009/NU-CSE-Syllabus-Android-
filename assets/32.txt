@@ -1,0 +1,13 @@
+
+<h2><strong>CSE-223 Database Management System</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction:</strong>&nbsp; Database system concept, Purpose of Database system; View of data: Data abstraction; Data models: Relational model, Network model, Hierarchical model; Database languages: DDL, DML; Conventional file processing; Transaction management; Storage management; Database Administrator; Database users; Overall system structure.</p>
+<p><strong>Database model:</strong> Entity-Relationship model; Attributes; Mapping Cardinalities; Existence Dependencies; Weak entity set &amp; Strong entity set; Relational model and its language (Relational algebra and SQL).</p>
+<p><strong>Database design:</strong> Decomposition; Normalization; Object-oriented Databases; Centralized systems;&nbsp;&nbsp; Distributed Databases; Data Fragmentation; Parallel Databases.</p>
+<p><strong>Integrity Constraints: </strong>Domain constraints, Referential constraints, Functional Dependencies.</p>
+<p><strong>Indexing: </strong>Basic concept; Ordered index; Primary index; Dense index and Sparse index; Multilevel index; Secondary index.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Book:</strong></p>
+
+<p>Database System Concepts (4<sup>th</sup> Edition) -Abraham Silberschatz Henry F.Korth S.Sudarshan</p>

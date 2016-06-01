@@ -1,0 +1,6 @@
+
+<h2>CSE-124 Introduction to Electrical Engineering Practical</h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-123</p>
+<p>&nbsp;</p>
+<p>Verification of ohm&rsquo;s law and measurement of Resistivity of a Metallic wire, To verify Kirchhoff&rsquo;s Current law and kirchhoff&rsquo;s Voltage law, To verify Thevenen&rsquo;s theorem, To verify Norton&rsquo;s theorem, To verify Superposition theorem, To study R-C circuit and to find out the time constant, To study the R-L-C series Resonance circuit.</p>

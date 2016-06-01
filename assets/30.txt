@@ -1,0 +1,18 @@
+
+<h2><strong>&nbsp;</strong>CSE-221 Algorithm Design</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction to algorithm</strong>: Analysis of algorithm, design of algorithm, mathematical foundation of algorithm, asymptotic notations, summations, recurrences, sets etc.</p>
+<p><strong>Divide and Conquer: </strong>General method, Binary Search, Finding the Maximum and Minimum, Quick Sort, Selection.</p>
+<p><strong>The Greedy method: </strong>General method, Knapsack problem, Minimum cost spanning trees, Single Source Shortest path.</p>
+<p><strong>Dynamic programming: </strong>General method, Multistage Graphs, All pair&rsquo;s shortest paths, Single Source Shortest path, Knapsack problem, Optimal Binary search Tree, Traveling salesperson.</p>
+<p><strong>Basic Traversal &amp; Search technique: </strong>Techniques for Binary trees, Techniques for Graphs</p>
+<p><strong>Backtracking: </strong>General method, The 8-Queens problem, Sum of subsets, Graph Coloring</p>
+<p><strong>Branch and Bound: </strong>The method, 0/1 Knapsack problem, Traveling salesperson</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference books:</strong></p>
+<p>&nbsp;</p>
+
+<p>Fundamentals of Computer Algorithm, Sartaj Sahni</p>
+<p>How to Solve it by Computer, R.G.Dromey.</p>
+<p>Data Structure &amp; Programming Design, Robert L.Kruse.</p>

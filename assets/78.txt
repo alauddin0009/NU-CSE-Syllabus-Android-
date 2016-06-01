@@ -1,0 +1,17 @@
+
+<h2><strong>CSE-427 E-Commerce</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction: </strong>An overview,traditional and electronic business trasanctions, types of e-commerce, benefits of e-commerce.</p>
+<p><strong>Security and e-commerce:</strong> Review of private key and public key enery operations, Comparasion of encryption method, Digital signatures and certificates, overview of literate security systems.</p>
+<p><strong>Handling money on the net: </strong>Transactions on the internet,requirements for payment systems,types and tools for electyronics payment, electronic data interchange and components of EDI system.</p>
+<p><strong>Consumer and Business Markets:</strong> Consumer markets and one to one marketing,value chains and the market place, Online communities and new marketing opportunies, websities and ordering online, Online catalogs , tying database, to online catalogs, Electronic consumer support,tracking online problems, security software modules.</p>
+<p><strong>Virtual: </strong>Virtual factory, virtual coordination and implementation,access to shared data and applications, entrusting access to intermediary.</p>
+<p><strong>Business Process Engineering: </strong>Approaches, models and methodologies, management of changes.</p>
+<p><strong>Legal Issues: </strong>Risk associated with proper documents and electronic documents, authentication of electronic documents, laws for e-commerce, EDI interchange agreements legal issues for internet commerce.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+<p>&nbsp; 1.E-Commerce,KK Bajaj and D. Nag.</p>
+<p>&nbsp; 2.E-Commerce, D.Kosiur.</p>
+<p>&nbsp; 3.Electronic Commerce , P. Loshin, P. Murphy.</p>
+<p>&nbsp; 4.Frontiers of Electronic Commerce, R. Kalakota.</p>

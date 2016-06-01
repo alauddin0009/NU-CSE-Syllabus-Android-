@@ -1,0 +1,12 @@
+
+<h2><strong>CSE-312 Microprocessor and Assembly Language</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>Microprocessors:</strong> Evolution of microprocessors, register base and accumulator based microprocessor, programmable logic devices; main memory array design, memory management concepts, input/ Out techniques, internal architecture of microprocessor: 8085, 8086, addressing mode, instruction format, instruction set, pin configuration and function, maximum/ minimum mode, read/write cycle, memory bank, interrupt and interrupt handling, interrupt controller, DMA.</p>
+<p><strong>Advanced microprocessors</strong>: Internal architecture, memory management, protection, an overview of Intel 80186, 80286, 80386, 80486, Pentium microprocessors, RISC processor, Coprocessor, Alpha processor.</p>
+<p><strong>Assembly Language</strong>: - Programming with 8086 instruction, conditional and unconditional jump, string instruction, stacks operation, procedure, reentrant and recursive procedure, macro.</p>
+<p><strong>Book References:</strong></p>
+<p>&nbsp;</p>
+
+<p>D.V Hall, Microprocessors and Interfacing, McGrow-Hill, 1987</p>
+<p>M.Rafiquzzaman, Microprocessors and Microprocessor based system design</p>
+<p>Y.Liu and G.A. Ginson, Microcomputer system:8086/8088 family</p>

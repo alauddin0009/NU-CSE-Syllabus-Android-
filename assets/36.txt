@@ -1,0 +1,25 @@
+
+<h2><strong>GED-227 Economics</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction</strong>: Definition, micro economics and macro economics. Positive Vs. normative economics. The basic problems of economic organization. Production possibility frontier.</p>
+<p><strong>Supply and demand:</strong> Concepts of supply and demand and their determinants, market equilibrium and shifts of market equilibrium, concepts and measurements of various elasticitis of demand and supply.</p>
+<p><strong>The theory of consumer behaviour:</strong> Utility-total and marginal utility, cardinal &amp; ordinal utility, law of diminishing marginal utility.</p>
+<p><strong>Theory of production:</strong> Production function, fixed Vs, variable factors of production, short run and long run, total average and marginal product, the law of diminishing returns, returns to scale, technological change.</p>
+<p><strong>Theory of cost and revenues:</strong> Short and long run cost functions, implicit and opportunity cost, fixed and variable costs, total average and marginal costs, envelope curves, marginal product and the least cost rule, profit maximizing conditions.</p>
+<p><strong>Market:</strong> Perfect competition and monopoly, short &amp; long run equilibrium of firm and industry, profit maximization, shut down condition, resource allocation and economic efficiency.</p>
+<p><strong>Macro economic overview:</strong> Fundamental concepts of macroeconomic, aggregate demand and aggregate supply.</p>
+<p><strong>National income accounting:</strong> circular flow of income, different concepts of national income- GNP, GDP, NNP, NI at factor price, market price and constant price, personal income, disposable income, real and nominal GDP, Net economic welfare (NEW); The CPI &amp; the GDP Deflator, the methods and problems of computing national income.</p>
+<p><strong>Consumption and saving function:</strong> concepts of MPC, APC, MPS, APS- Short run and long run&nbsp; view-Kuznet&rsquo;s puzzle.</p>
+<p><strong>Investment Function:</strong> Determinants of investment, concepts of MEC, MEI, Present value Theorem.</p>
+<p><strong>The Classical and Keynesian theory:</strong> Determination of income and employment, Inflationary and deflationary gaps and measures to bridge the gap, theory of multiplier and accelerator.</p>
+<p><strong>Reference Books</strong>:</p>
+
+<p>Samuelson &amp; Nordhaus, W, : Economics.</p>
+<p>Leftwitch: the price System &amp; Resurce Allocation.</p>
+<p>Bilsa: microeconomic theory.</p>
+<p>Koutsoyiannis: Moderm Micro-economics.</p>
+<p>Dornburg &amp; Mc Dougall: Macro-economics.</p>
+<p>Swenburg &amp; Mc Dougall: Macro-economics.</p>
+<p>Domwnick Salvatory: Micro-economics.</p>
+<p>Eugene Diulio: Macro-economics.</p>

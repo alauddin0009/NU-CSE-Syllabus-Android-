@@ -1,0 +1,10 @@
+
+<h2>CSE-112 Programming Language</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>Overview of C; Constants, variables and data types; Operator &amp; Expression; Managing Input &amp; Output Operators; Decision making and branching; Decision making and looping; Arrays; Handling of character strings; User-defined functions; Structure and union; Pointers; File management.&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+
+<p>Balagurusamy, &ldquo;Programming in ANSI C&rdquo;</p>
+<p>Yamath Kanathkar, &ldquo;Let US C&rdquo;</p>
+<p>Yamath Kanathkar, &ldquo;Pointer in C&ldquo;</p>
+<p>Herbert Schildt, &ldquo;Turbo C&rdquo;</p>

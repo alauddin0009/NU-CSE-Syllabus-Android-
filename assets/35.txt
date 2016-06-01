@@ -1,0 +1,15 @@
+
+<h2><strong>CSE-226 Data Communications</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>Introduction:</strong> Data Communication networks standards, communication architecture and protocol.</p>
+<p><strong>Data Transmission : </strong>Analog and digital data, Spectrum and Bandwidth, Transmission impairments, Channel capacity, Transmission media, coaxial cable, twisted pair, fiber optics, wireless transmission, electromagnetic spectrum, radio, microwave, infra red, cellular and satellite.</p>
+<p><strong>Data Encoding:</strong> Digital data and digital signaling, NRZL, NRZI, Bipolar AMI, Manchester and differential Manchester encoding, Digital data and analog signaling,&nbsp; ASK, FSK, PSK &amp; QPSK and their performance, Analog data and digital signaling, PCM</p>
+<p><strong>Data Communication Techniques: </strong>&nbsp;Asynchronous and Synchronous transmission, CRC Method, RS232( or EIA 232D), V2.4 interface standard.</p>
+<p><strong>Data Link Control:</strong> Flow control; Error detection- parity and CRC, Error Control(Stop and wait, Go back N ARQ, Selective Reject ARQ), HDLC, Other data link control protocols.</p>
+<p><strong>Multiplexing: </strong>Frequency Division Multiplexing<strong>, </strong>Synchronous Time Division Multiplexing, Statistical Time Division Multiplexing.</p>
+<p><strong>Circuit Switching &amp; Packet Switching:</strong> Space Division and Time Division switching, Switching network; Circuit switching network; Circuit switching concepts,&nbsp; Packet switching principles, Virtual Circuit, Datagram.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+
+<p>Behrouz A. Forouzan, Data Communication and Networking.</p>
+<p>W Stallings, Data and Computer Communication.</p>

@@ -1,0 +1,15 @@
+
+<h2><strong>CSE-216 Mathematics for CSE</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Theory of Matrices:</strong> Types of matrices (Creditary, hermitian, symmetric etc.); Determinant of a square matrix; Equivalence, Adjoint and inverse of a square matrix; Linear equations; The characteristic roots and the characteristic equation of a matrix; Linear transformation. Similarity transformations.</p>
+<p><strong>Vector Algebra:</strong> Scalars and vectors, equality of vectors; Addition and subtraction of vectors; Multiplication of vectors by scalars; scalar and vector product of two vectors and their geometrical interpretations; triple products and multiple products; liner dependence and independence of vectors.</p>
+<p><strong>Vector calculus</strong>: Differentiations and integration of vectors together with elementary applications; Definition of line, surface and volume integrals; Gradient, divergence and curl of point functions, various formulae, Gauss&rsquo;s theorem, Stoke&rsquo;s theorem, Green&rsquo;s theorem.</p>
+<p><strong>Fourier Analysis:</strong>&nbsp; Real and Complex form of Fourier series; Finite transform; Fourier Integral; Fourier transforms and their uses in solving boundary value problems of wave equations.</p>
+<p><strong>Laplace Transform: </strong>Definition; Laplace transforms of some elementary functions; sufficient conditions for existence of Laplace transforms; Inverse Laplace transforms; Laplace transforms of derivatives. The unit step function; Periodic function; Some special theorems on Laplace transforms; Partial fraction; Solutions of differential equations by Laplace transforms; Evaluation of improper integrals.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+
+<p>Md. Abdur Rahman, Mathematical Methods.</p>
+<p>Matrices, A.R. Vasishtha.&nbsp;</p>
+<p>Khosh Mohammad, Vector analysis.</p>

@@ -1,0 +1,17 @@
+
+<h2>CSE-114 Physics (Electricity and magnetism)</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Charge, Electric field &amp; Gauss&rsquo;s Law:</strong> Simple phenomena in electrostatics; Electrostatic induction and charge density; Coulomb&rsquo;s law; Electric field &amp; field strength; Point charge in an electric field; dipole in an electric field; Electric flux; Gauss&rsquo;s law and some applications; Electric potential; Potential due to a point charge; Equipotential surfaces; Potential energy; Potential gradient; Capacitance and its calculation; Parallel plate capacitor with dielectric; Dielectric &amp; Gauss&rsquo;s law; Electric vectors; Energy stored in an electric field</p>
+<p><strong>Electric current, Simple circuits and Electrical Measurements:</strong> Current and Ohm&rsquo;s law; E.M.F. and potential difference; Whetstone bridge; Simple RC and RL circuits, The potentiometer; Moving coil galvanometer; Ammeter; Voltmeter; Multimeter; Wattmeter &amp; Energy meter; Measurements of Voltage, Current, Resistance, Inductance, Capacitance, Power and Energy.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Magnetic Field &amp; force on Current:</strong> Coulomb&rsquo;s law; Magnetic field and field strength; Magnetic force on current; Directions of current and field; Maxwell&rsquo;s screw rule; Fleming&rsquo;s left hand rule; Magnetic field near long wire; Magnetic field for solenoid; Fleming&rsquo;s right hand rule;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Magnetic properties of matter:</strong> Poles and dipoles; Coulomb&rsquo;s law for magnets &amp; Gauss&rsquo;s theorem of magnetism; Dia-magnetism, Para-magnetism and Ferro-magnetism. Magnetomotive force and field intensity; concept of self and mutual inductance; The coefficient of magnetic coupling; Rise of current and decay of current in inductive circuit; Energy in magnetic field; Inductance in series and parallel; Hysteresis and eddy current losses.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p>&nbsp;</p>
+
+<p>David Halliday and Robert Resin, Physics Part-II</p>
+<p>Boylested, Introductory Circuit Analysis</p>
+<p>B. L. Theraja, A Text book of Electrical Technology</p>

@@ -1,0 +1,17 @@
+
+<h2><br />CSE-121&nbsp; Data Structure<strong>&nbsp;</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction:</strong> Basic Terminology; Elementary Data Organization; Data Structures; Data Structure Operations; Control Structures; Algorithms: Complexity, Time-Space Tradeoff, Mathematical Notation and function,&nbsp; String Processing: String Operations, word processing, and Pattern Matching Algorithms.</p>
+<p><strong>Arrays, Records and Pointers:</strong> Linear Arrays; Representation of linear array in memory; Traversing linear arrays, Inserting and Deleting; Sorting; (Bubble sort), Searching (linear, binary), Multidimensional Arrays; Pointer Arrays; Record Structures;&nbsp; Matrices.</p>
+<p><strong>Linked lists:&nbsp; </strong>Representation of Linked lists in memory, Traversing a linked list, Searching a linked list, insertion, deletion; Header and two-way lists.</p>
+<p><strong>Stacks, Queues, Recursion: </strong>Array Representation of Stacks, Polish Notation; Quicksort, Recursive definition; Towers of Hanoi, Implementation of Recursive procedures, Queue Dequeue, Priority Queues.</p>
+<p><strong>&nbsp;Trees:</strong> Binary Trees; Representing Binary Trees in memory, traversing binary tree, Header Nodes; Threads , binary search trees, Heap tree, heap sort, Huffman&rsquo;s Algorithm.</p>
+<p><strong>Graphs:</strong> Sequential Representation of Graph; Adjacency Matrix; Path Matrix; Warshall&rsquo;s Algorithm; Linked representation of Graphs.</p>
+<p>&nbsp;</p>
+<p><strong>Reference book:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Seymour Lipschutz ( Schaum&rsquo;s outline series), Data Structure (International Edition)</p>
+<p>Ellis Horowitz &amp; Sartaj Sahni, Data Structure and Algorthm.</p>
+<p>Robers L Kruse, Data Structure &amp; Programming Design, 2<sup>nd</sup></p>

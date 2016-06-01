@@ -1,0 +1,20 @@
+
+<h2><strong>CSE-326 Compiler Design</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction to compiler: </strong>Compiler, Analysis of the source Program, the phases of compiler,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of the compiler, compiler construction tools.</p>
+<p><strong>A simple one pass compiler:</strong> syntax definition, CFG, parse tree, ambiguity, associativity of operators, lexical analysis.</p>
+<p><strong>Lexical analysis:</strong> the role of the lexical analyzer, input buffering, specification tokens, finite automaton, Thompson&rsquo;s construction, conversion of regular expression to DFA.</p>
+<p><strong>Basic parsing technique:</strong> Parser Bottom-up parsing, operator precedence parsing, operator precedence grammar, Top down parsing, Predictive parsing, LL1 grammar, LR parser (SLR, LALR).</p>
+<p><strong>Syntax Directed Translation:</strong> Syntax Directed Definition, Construction of Syntax tree L &ndash;Attributed definition.</p>
+<p><strong>Runtime Environment</strong>: Activation tree, Storage organization, Storage allocation strategies, parameter passing, symbol table.</p>
+<p><strong>Intermediate code generation</strong>: Intermediate languages, three address code, Boolean expression, back patching.</p>
+<p><strong>Code generation: </strong>issues in the design of a code generator, target machine, basic block, flow graph, code generator algorithm, DAG, peephole optimization.</p>
+<p><strong>Code optimization</strong>: Function preserving&nbsp; optimization, optimization of basic block, loop optimization.</p>
+<p><strong>Error detection:</strong> reporting errors, Sources of error, syntactic error, semantic error, dynamic error, plan of error detection.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p><ol>
+<p>Alfred V. Aho, Ravi Sethi, Jeffery D. Ullman, Compilers, Techniques and tools.</p>
+<p>Alfred V. Aho,&nbsp; Jeffery D. Ullman, Principles of Compiler Design.</p>
+<p>A.J Holub, Compiler Design in C.</p>

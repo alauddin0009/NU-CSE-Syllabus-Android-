@@ -1,0 +1,14 @@
+
+<h2><strong>CSE-313 Assembly Language Practical</strong></h2>
+<p>3 hours in a week, 1.5&nbsp; Cr.</p>
+<p>Laboratory works based on CSE-312</p>
+<p>&nbsp;</p>
+<p>Display message (n) times in different line; simple arithmetic operation; Convert a lowercase letter to an uppercase letter and&nbsp; vice versa; Display all alphabetic characters; Input two numbers, compare them and display the smaller one and vice versa; Accept a string from keyboard and display the string in reverse order; Find the largest element from an array and vice versa; perform bubble sort; display first ten numbers by Fibonacci Series; Calculate sum and average of few numbers; Convert hexadecimal number to binary equivalent; If a character is &ldquo;y&rdquo; or &ldquo;Y&rdquo;, Display it, otherwise terminate; Calculate the following expression=M+N-P+1(Using Subroutine); Calculate following operation: if x&gt;y then (M/N) +P else (M-N)*P ;(IF-ELSE Statement).</p>
+<p>&nbsp;</p>
+<p><strong>Book References:</strong></p>
+<p>&nbsp;</p>
+
+<p>Assembly Language Programming, Marut</p>
+<p>Assembly Language Programming, Richard C. Detmer</p>
+<p>Assembly Language Programming, Vanugopal</p>
+<p>Techniques for the IBM PC, Alan R. Miller</p>

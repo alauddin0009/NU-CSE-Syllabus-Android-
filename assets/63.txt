@@ -1,0 +1,21 @@
+
+<h2><strong>CSE-414 Parallel and Distributed Processing</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Parallel Processing:</strong> Overview- Importance, architecture, hardware and software issues. Architecture for parallels processing- classifications, comparative study of different architectures. Issues in parallel processing, Parallel Algorithm &ndash; Pointer Jumping, Work-efficient, Sorting Networks, Graph Problems- Connected Components, Shortest Paths Spanning Trees</p>
+<p>&nbsp;</p>
+<p><strong>Distributed processing :</strong> Overview- Definition, impact of distributed processing on organizations, pitfalls in distributed processing. Forms of distributed processing- Function distribution, hierarchical distributed systems, horizontal distributed system.</p>
+<p>&nbsp;</p>
+<p><strong>Strategy</strong>- strategies for distributed data processing, control of complicity, problem of incompatibility, centralization Vs decentralization, cost an benefit analysis.</p>
+<p>&nbsp;</p>
+<p><strong>Design of distributed data</strong>- Distributed data- Distributed data, location of data, multiple copies data, conflict analysis, database management, distributed database and applications.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Fault Tolerance &ndash; </strong>Forward and Backward Error Recovery, Voting Protocol, Redundancy Approaches, Operation based and State Based Approach, Commit Protocols.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Advanced Computer Architecture- Hwang Kai</p>
+<p>Distributed Operating System- P.K. Sinha</p>
+<p>Distributed Operating System- Tanenbaum</p>
+<p>Algorithm- Coreman</p>

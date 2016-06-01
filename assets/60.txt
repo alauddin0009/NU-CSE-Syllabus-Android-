@@ -1,0 +1,20 @@
+
+<h2><strong>CSE-411 Computer Network</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction:</strong> Basic computer network concept; Network structure; Network software; Reference model; Example networks; OSI Model, TCP/IP Model, X.25 Networks.</p>
+<p><strong>Frame Relay: </strong>Introduction to frame relay, advantages and disadvantages, role of frame relay, frame relay operations, virtual circuits, DLCIs inside the network,&nbsp; ,frame relay layers; physical layer , data link layer.</p>
+<p><strong>ATM Network: </strong>Packet networks, mixed network traffic, cell networks, asynchronous TDM,virtual connection, identifiers, cell, connection establishment and release, Application Adoptions Layer(AAL),ATM layers, Physical layer, ATM WANs, ATM LANs.</p>
+<p><strong>Medium Access sub-layer:</strong> Multiple Access Protocols: ALOHA; CSMA/CD Protocol; Collision-Free protocols;CDMA Limited contention protocol; Wavelength division multiple access protocols; Wireless LAN protocols; IEEE standard 802 for LANs and MANs; Bridges; High-speed LANs;Wireless LANs,Mobile telephony and Satellite Networks.</p>
+<p><strong>Network Layer:</strong> Network layer design issues; Routing algorithms; Congestion control Algorithms; Inter networking; Network layer in the internet; IPv4 and introduction to IPv6.</p>
+<p><strong>Transport Layer:</strong> The transport service; Elements of transport protocols; The internet transport protocols; The ATM AAL layer protocols;</p>
+<p><strong>Optical Fiber Network: </strong>SONET and SDH.</p>
+<p><strong>Application Layer:</strong> Network security; DNS-Domain Name system; SNMP: Simple Network Management protocol; Electronic Mail; The World Wide Web; Multimedia.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books: </strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Tannenbaum ,Computer Networks.</p>
+<p>W. Stallings, Data &amp; Computer Communication.</p>
+<p>Behrouz &amp; Forouzen, Data Communication &amp; Networking.</p>

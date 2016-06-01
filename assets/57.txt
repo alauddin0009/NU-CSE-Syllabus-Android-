@@ -1,0 +1,18 @@
+
+<h2><strong>CSE-328 System Analysis and Design</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>The systems Development Environment:</strong> Introduction- A modern approach to systems analysis and design, your role and other organizational responsibilities in systems development types of information systems and systems development, Developing information systems and the systems development life cycle.</p>
+<p>Succeeding as a systems analyst, acquiring the techniques of the systems analyst; automated tools for systems development prototyping, reusable code CASE tools. Visual and emerging development tools- object oriented development tools, visual development tools, evolution and future of development tools.</p>
+<p><strong>Analysis:</strong> Fundamental principles of systems analysis, the preliminary investigation phase, determining systems requirements, traditional methods for determining requirements, modern methods for determining systems requirements, feasibility study; structuring system requirements- Process modeling, data flow diagramming, logic modeling with structured English, decision trees, Decision tables, Data dictionary, process descriptions, conceptual data modeling.</p>
+<p><strong>The design phase:</strong> the logical representation of data, design of physical files and database, design principles and output design, input design, designing forms and reports, designing databases, designing the internals- program and process, Designing distributed systems.</p>
+<p>System development and implementation: program and process design, Verification and validation, methods of errors checking and testing; installation-Direct, parallel single location, phased and planning.</p>
+<p><strong>System maintenance:</strong> documentation; maintenance information system, the process of maintaining information systems, the process of maintaining information systems, types of maintenance, managing maintenance, documentation the system-user document, programmer document and operational document.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books: </strong></p>
+<p>&nbsp;</p>
+
+<p>Modern systems analysis &amp; design, Jefrey A. Hoffer etc all, Pearson education Asia, 3<sup>rd</sup> edition, 2001.</p>
+<p>Systems Analysis and Design, Shin Yen Wu, West Publishing Company, 1994.</p>
+<p>Information System: A Management Perspective, 2<sup>nd</sup> Edition Steven A Benjamin/ Cummings 1996.</p>
+<p>Information Systems: Theory and Practice, 5<sup>th</sup> Edition, J Burch and G Grundnitski (John Wiley and Sons, 1989).</p>

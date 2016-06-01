@@ -1,0 +1,17 @@
+
+<h2><strong>CSE-415 Peripheral and Interfacing</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Interfacing techniques:</strong> Interfacing for Memory; Communication system; System overhead (DMA and Programmed data transfer); I/O ports and Control; Parallel and Serial Interfacing devices; Timing considerations; Noise considerations; Application of PPI, PIC, DMAC, PCI etc.</p>
+<p><strong>Digital Interfacing: </strong>Programmable parallel ports and handshake input/output (IC 8255), Interfacing a Microprocessor to keyboards, X-lat, Display-Alphanumeric and multiplexed LED (Interfacing with IC 7447), Relay, Stepper motor, Incremental Encoder, Optical motor shaft encoder.</p>
+<p><strong>Modern data-entry devices:</strong> Scanners overview; Bar code reader; Optical mark reader (OMR); Optical Character Reader (OCR); Tape Reader; Digitizer: Reading technique, Capacitive Electrostatic scanning digitizer.</p>
+<p><strong>Display devices:</strong> CRT; Basic CRT operations; Timing and frequencies; CRT controller ICs; LCD technologies; Passive and active matrix; LCD reliability; Electroluminescent display.</p>
+<p><strong>Printers:</strong> Impact printers; Serial and line printing; Laser printing; Ink-Jet printing; Color printing; Plotters.</p>
+<p><strong>Storage devices:</strong> Floppy disk; Floppy disk controller (IC 8272) ; Magnetic hard disk and controller; Compact disk, magnetic tape storage.</p>
+<p><strong>Data Communication and Network: </strong>Introduction to asynchronous serial data communication, RS-232 C serial data standard, USART(IC 8251A) word format, Null Modem configuration, The GPIB, HPIB, IEEE 488 Bus.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books: </strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Microprocessor and Interfacing by Andrew Hall</p>
+<p>Computer Peripherals (Part B) by Barry Wilkinson</p>

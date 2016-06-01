@@ -1,0 +1,16 @@
+
+<h2><strong>CSE-417 Digital Signal Processing </strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction to Digital Signal Processing (DSP):</strong> Introduction; Digital Signal Processing; Sampling and Analog-to-Digital Conversion; Discrete Time Signals; Ambiguity in Digital signals; Discrete Time Systems; Application areas for DSP; Keys of DSP operations: Convolution, Correlation, Digital Filtering, Discrete Transformation, Modulation; System Design: Methodology&nbsp; &amp; Implementation Methodology.</p>
+<p><strong>Discrete Fourier transform: </strong>Fourier series, one dimensional Fourier transforms, discrete Fourier Transform (DFT) and its properties, Fast Fourier Transform (FFT) and its algorithm, Inverse discrete Fourier transformation.</p>
+<p><strong>The Z-Transform :</strong>Introduction to z-Transform; General Results of z-transform; Inverse z-Transform: Partial Fraction Expansion, Power Series Expansion, Contour Integration; Comparison of inverse z-transform method; Properties of z-transform; Complex Convolution Theorem and Parseval's Relation.</p>
+<p><strong>Implementation of Discrete-Time Systems:</strong> Introduction; Block Diagram and Signal Flow Graph Representation of Digital Networks; Matrix Representation of Digital Networks; Basic Structures of IIR Systems: Direct Form, Cascade forms, Parallel Form; Transposed Forms; Basic Structures of FIR Systems; Finite Precision Effects.</p>
+<p><strong>Design of Digital Filters: </strong>Introduction to Digital Filters; Types of Digital Filters: FIR and IIR; Choosing between FIR and IIR Filters: Digital Filter Design Steps; Design of FIR Filters: Design of FIR Filters by Windowing, Design of Optimum Equiripple Linear-Phase FIR Filters, Design of IIR Filters: Classical Continuous-Time Low-Pass Filter Approximations, Conversion of Transfer Functions from Continuous to Discrete Time, Frequency Transformations of Low pass Filters, Adaptive digital filters: concepts of adaptive filtering, basic wiener filter theory, the basic LMS adaptive algorithm, recursive least square algorithm.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference books: </strong></p>
+<p>&nbsp;</p>
+
+<p>Emmanuel C. Ifeachor, Barrie W. jervis. Digital Signal Processing.</p>
+<p>John G. Proakis, Dimitris G. Manolakis, Digital Signal Processing &ndash; Principles, Algorithms, and applications.</p>
+<p>Alan V. Oppenheim, Ronald W. Schafer, John R. Buck, Dicrete-Time signal Processing.</p>

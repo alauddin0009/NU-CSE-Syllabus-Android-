@@ -1,0 +1,17 @@
+
+<h2><br />CSE-321 Software Engineering<strong>&nbsp;</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Software Engineering Paradigms:</strong> Definition of S/W Eng.; The classical life cycle; Prototyping fourth generation technique; The product and the process model, Generic view of software engineering, Boehm's spiral model, Measurement and Matrices.</p>
+<p><strong>Requirements Analysis Fundamentals:</strong> Analysis principle; Feasibility Study, Software Prototyping Specification; Requirement Analysis Methodologies; Structured and object oriented analysis; Data Flow-oriented analysis methods.</p>
+<p><strong>Software Design Fundamentals:</strong> Design process; Design fundamentals: S/W architecture, Program structure, Data structure, S/W procedure, Modularity, abstraction; Effective modular design; Procedural design; Data flow-oriented Design; Top-down and bottom-up design; Design process considerations; Transform analysis; Transaction analysis; Data structure-oriented design: Logical construction of programs and systems, Data structured systems development; Object-oriented design; Design concepts; Methods; strategy. Real-time Design; Coding style: Code documentation, Data declaration, statement construction, Input/output, Software reliability.</p>
+<p><strong>Software Testing Techniques and Strategies:</strong> Software Testing method, Testing fundamentals &amp; strategies; White box testing; Basis path testing; Loop testing; Black Box testing. Verification and validation; Organization for software testing; Defect testing; Integration testing; Validation testing; System testing; The art of debugging.</p>
+<p><strong>Software Management and Maintenance Technique:</strong> Maintenance process, System documentation, Maintenance cost, Configuration management &amp; planning, Change management, person &amp; release management, Software cost estimation technique, Algorithmic cost modeling, The COCOMO model, Software quality assurance &amp; activities, McCall&rsquo;s quality factor, Software reuse, Software re-engineering, Computer Aided Software Engineering (CASE) tool</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books: </strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Software Engineering by Lan Sommerville</p>
+<p>Software Engineering by Roger S. Pressman</p>
+<p>Software Engineering by Martin L. Shooman</p>

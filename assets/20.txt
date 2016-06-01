@@ -1,0 +1,13 @@
+
+<h2>CSE-211&nbsp; Object Oriented Programming</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p>Principles of Object-Oriented Programming; Beginning with C++; Tokens, Expressions and Control Structure; Functions in C++; Classes and objects; Constructors and Destructors; Operator Overloading and Type conversions; Inheritance: Extending classes; Pointers, Virtual Functions and Polymorphism; Managing console I/O operations; Working with Files; Exception Handling; Template functions and classes; Multi-threaded Programming.</p>
+<p>Introduction to java, comparison between java and c++.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books: </strong></p>
+
+<p>E Balagurusamy &ldquo;Object- oriented programming with C++&rdquo;</p>
+<p>Robert Lafore &ldquo;Turbo C++&rdquo;</p>
+<p>Herbert Schildt &ldquo;Turbo C++, The complete Reference&rdquo;</p>
+<p>Herbert Schildt &ldquo; Teach Yourself C++ &ldquo;</p>

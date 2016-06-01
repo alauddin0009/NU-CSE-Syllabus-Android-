@@ -1,0 +1,6 @@
+
+<h2><strong>CSE-218 Electronic Devices and Circuits Practical</strong></h2>
+<p>3 hours in a week, 1.50 Cr.</p>
+<p>Laboratory works based on CSE-217</p>
+<p><strong>&nbsp;</strong></p>
+<p>I-V Characteristics of diode, Input and Output Characteristics of BJT: Common-Base Configuration(CB), Common-Emitter Configuration (CE), Common-Collector Configuration (CC), I-V characteristic of Zener diode.</p>

@@ -1,0 +1,10 @@
+
+<h2><strong>CSE-222 Algorithm Design Practical</strong></h2>
+<p>3 hours in a week, 1.5&nbsp; Cr.</p>
+<p>Laboratory works based on CSE-221</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Divide and conquer:</strong> Binary Search, finding the maximum and minimum.</p>
+<p><strong>Performance measurement using time Function</strong>: quick sort and marge sort, marge sort and Bubble sort, Quick sort and Heap sort.</p>
+<p><strong>Greedy Method:</strong> Knapsack problem, Minimum cost spanning tree, Prim&rsquo;s algorithm, Single source shortest path.</p>
+<p><strong>Dynamic Programming</strong>: All pair shortest path, 0/1 kanpsack problem, the traveling salesperson problem.</p>
+<p><strong>Backtracking</strong>: the 8 Queens Problem, Graph coloring problem.</p>

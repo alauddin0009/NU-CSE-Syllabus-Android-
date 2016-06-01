@@ -1,0 +1,16 @@
+
+<h2><strong>CSE-422 Web Engineering Practical </strong></h2>
+<p>3 hours in a week, 1.5&nbsp; Cr.</p>
+<p>Laboratory works based on CSE-421</p>
+<p><strong>&nbsp;1.</strong>Designing a simple HTML Document to show text (Introduction to &lt;HTML&gt;,&lt;Body&gt;</p>
+<p>&lt;Head/Title&gt;, &lt;Meta Content&gt;,Using Different HTML tags to format Body contents.</p>
+<p>2.Text alignment in table, Introduction to Form elements(textbox, checkbox, combo box etc) and designing simple Feedback/Contact forms.</p>
+<p>3.Using Java Scripts to to create web pages containing custom Welcome message(Date-time).</p>
+<p>4.Using text Links to navigate between different pages, inserting&nbsp; Images&nbsp; and back ground sounds and using Images as Link.</p>
+<p>5.Using page frames and mousover links and implementing them in a HTML document.</p>
+<p>6.Using CSS to apply formatting text, forms, tables and link styles.</p>
+<p>10.Using different control statements in Java Scripts to execute simple mathematical expressions(if-else, Switch-case, for, while, do-while).</p>
+<p>11.Installing Apache, PHP 4/5 and integrating into windows platform, creating PHP documents with simple tags, installing My-SQL and connection between PHP and My-SQL.</p>
+<p>12.Inserting data into My-SQL database using PHP forms.</p>
+<p>&nbsp;</p>
+<p>Project: Design and develop a Complete Dynamic website with HTML, PHP and My-SQL having forms and also a flexible navigation menu which has links to all available section on the site.</p>

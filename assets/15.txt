@@ -1,0 +1,18 @@
+
+<h2><strong>CSE-126 Statistics and Probability </strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Elements of Statistics:</strong> Nature and scope of statistics, Nature &amp; representation of statistical data; Attributes and variables; discrete and continuous variables; Method of data collection; <strong>Measures of location:</strong> Characteristics of an ideal measure; Arithmetic mean; Geometric mean; Harmonic mean; Median; Mode; Quartiles; Deciles; Percentiles.</p>
+<p><strong>Measure of dispersion:</strong> Characteristics of an ideal measure: Absolute &amp; Relative measures; Range; Standard deviation; Mean deviation; Quartile deviation; Coefficient of dispersion; Coefficient of variation; Skew ness and kurtosis.</p>
+<p><strong>Elements of Probability:</strong> Meaning and definition of probability; A priori and a posteriori probability; Basic terminology of probability; Random variables; Probability function; Expectation of sum and products.</p>
+<p><strong>Regression and correlation:</strong> Relationship between variables; Fitting of regression lines; Simple correlation; Multiple correlation and regression.</p>
+<p><strong>Sampling: </strong>Sampling Techniques &amp; its role, different types of sampling &amp; its merits &amp; Demerits.</p>
+<p><strong>Tests of Significance:</strong> Tests of means, Variance, Correlation coefficient and regression coefficient.</p>
+<p><strong>Probability Distribution:</strong> Binomial Distribution, its uses and properties, Poisson Distribution, its uses and properties, Normal Distribution, its uses and properties.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>M. Nurul Islam, An introduction to Statistics.</p>
+<p>M.G. Mostafa, Methods of statistics.</p>
+<p>Md Abdul Aziz, Business Statistics.</p>

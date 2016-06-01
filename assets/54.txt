@@ -1,0 +1,7 @@
+
+<h2><strong>CSE-325 Computer Graphics and Multimedia Practical</strong></h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-324</p>
+<p><strong>&nbsp;</strong></p>
+<p>Scan Convention Lines, Scan Converting Circles, Scan Converting Ellipses, Filling Rectangles, Filling Polygons, Filling Ellipse Arcs, Pattern Filling, Clipping Lines, Clipping Circles and Ellipses, Clipping Polygons 2D Transformation, the window to View port Transformation</p>
+<p>Computer Graphics Programming: Open GL.</p>

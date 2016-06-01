@@ -1,0 +1,29 @@
+
+<h2><strong>CSE-324 Computer Graphics and Multimedia</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Graphics Input, storage, Output and Communications:</strong> Graphics input, storage, Communication Devices, Common Display devices, Raster Scan CRT.</p>
+<p><strong>Scan Conversion:</strong> Scan converting a Point, Line, Circle, Ellipse, Arcs, Rectangle, Region filling, Side Effects of Scan Conversion.</p>
+<p><strong>Two-dimensional and three-dimensional Graphics Transformation:</strong> Geometric Transformations, Co-ordinate Transformations, Composite Transformations, and Instance Transformation.</p>
+<p><strong>Two-dimensional and three-dimensional Viewing and Clipping: </strong>Viewing Transformations, Clipping Algorithms.</p>
+<p><strong>Mathematics of Projection:</strong>&nbsp; Perspective projection, Parallel projection.</p>
+<p><strong>Geometric representations:</strong> Wire frame model, Curve Design, Interpolation and Approximation.</p>
+<p><strong>Hidden Surfaces:</strong> Depth comparisons, Z-Buffer algorithm, The Painter&rsquo;s algorithm, Scan line algorithm.</p>
+<p><strong>Introduction to Multimedia Systems:</strong> Interactive and non-interactive multimedia, temporal media and Non-Temporal media, Hypertext, Hypermedia, MPC Level 1, MPC Level 2, Quick Time.</p>
+<p><strong>Image:&nbsp; </strong>Image, Types and applications, Image Capture, Text conversion, Vectorization, Image compression, Encoding, Standards for encoding images, JPEG.</p>
+<p><strong>Audio: </strong>Audio capture, Compression methods, MIDI, Digital audio, Sampling Rate, Sampling Size, MPEG-1, MPEG-2.</p>
+<p><strong>Video: </strong>TV screen, Monitor,Video capturing technique, Broadcast TV standards,&nbsp; video standards, Video compression, Coding of real-time video, Analog video signal formats.&nbsp; Animation Classification and techniques.</p>
+<p><strong>Storage for multimedia: </strong>Choice of storage, Storage types, Compact Disk specification,&nbsp; CD-DA, CD-ROM, CD-I.</p>
+<p><strong>Multimedia Project</strong>: Project Design concept, Media content Design and Development, Interface Design and Development Process, Multimedia team</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Computer graphics, Schaum&rsquo;s Outline series</p>
+<p>Computer graphics principal and practice, Foley, Vandam.</p>
+<p>Computer graphics: a programming approach. Steven and Harrington.</p>
+<p>Multimedia in Practice, Judith Jeffcoate.</p>
+<p>Multimedia Magic,S.Gokul.</p>
+<p>Multimedia Programming Objects, Environments and framework, Simon J. Gibbs.</p>
+<p>Multimedia Computers and Communications, N. Sessagiri and Aram Akopov.</p>
+<p>Open GL(r) 1.2 Programming Guide, Mason woo, Jakie Neider, Tom David, Dave shriner.</p>

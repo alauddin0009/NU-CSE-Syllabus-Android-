@@ -1,0 +1,6 @@
+
+<h2>CSE-412 Computer Network Practical</h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-411</p>
+<p>&nbsp;</p>
+<p>Overall Concept about network, Configure TCP/IP, Different protocol and net card, DHCP server/client configuration. Introduction to DNS, DNS server configuration, use of DNS testing utility, Caching only DNS server configuration, canonical name implementation, Introduction to electronic mail system, configuration, use of DNS testing utility, Caching only DNS server configuration, Canonical name implementation, introduction to electronic mail system, configure to ISP online mail, configure SMTP, POP, testing and debugging, email account splitting, virtual hosting, IMP and POP setup, WINS configuration, apache web server configuration, apache core active and apache module, web based mail configuration, apache core active and apache module, web based mail configuration using open web mail, IP based virtual web hosting, name based virtual web hosting, testing and debugging and log file analysis, squid&nbsp; proxy server configuration, understanding of different squid tag FTP configuration.</p>

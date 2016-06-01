@@ -1,0 +1,6 @@
+
+<h6>CSE-113 Programming Language Practical</h6>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-112</p>
+<p>&nbsp;</p>
+<p>Overview of C; Constants, variables and data types; Operator &amp; Expression; Managing Input &amp; Output Operators; Decision making and branching; Decision making and looping; Arrays; Handling of character strings; User-defined functions; Structure and union; Pointers; File management.&nbsp;</p>

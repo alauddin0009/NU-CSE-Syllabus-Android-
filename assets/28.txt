@@ -1,0 +1,18 @@
+<h2><strong>CSE-219 Basic Accounting</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction : </strong>Definition of Accounting, its role and functions, various images of Accounting, users of Accounting information, history of Accounting, generally accepted accounting principles, distinction between Bookkeeping and Accounting, relationship of Accounting with other disciplines, ethical issues, the accounting profession.</p>
+<p><strong>The Recording Process : </strong>Business transactions, steps in the recording process, the accounting equation, the account, the rules of debit and credit, the journal and the ledger, subsidiary ledgers and special journals, the trial balance.</p>
+<p><strong>Accounting for Merchandising Operations : </strong>Merchandising&nbsp; operations, merchandising transactions, recording of merchandising purchases and sales under perpetual and periodic inventory systems.</p>
+<p><strong>The Adjustment Process : </strong>Accounting period, accrual vs. cash basis of Accounting, revenues (income) and expenses, types of adjusting entries, preparing and posting of closing entries, preparing the adjusted trial balance, preparation of classified income statement and the balance sheet.</p>
+<p><strong>Worksheet : </strong>Meaning, objects, nature, rules for the preparation of worksheet and preparation of worksheet &ndash; 8-column and 10-column.</p>
+<p><strong>Preparation of Financial Statements : </strong>Single and multiple-step income statements, Owner&rsquo;s equity statement , Classified balance sheet, Cash flow statement.</p>
+<p><strong>Rectification of Errors : </strong>Meaning; Types of Errors; Rectification of errors before preparation of trial balance; after preparation of trial balance; after preparation of financial statements and errors detected in the next accounting year.</p>
+<p><strong>Control of Cash : </strong>Internal control; controlling cash; the bank checking account; petty cash funds; bank reconciliation statement.</p>
+<p><strong>Accounting Information System : </strong>Basic concepts, principles of Accounting information systems, developing an Accounting system, mechanized accounting systems.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books&nbsp; :</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Harman, Edwards and Maher, Accounting A business perspective, Latest edition.</p>
+<p>Md. Hafiz Uddin, Basic Accounting (English version), Latest edition, The Angel Publications.</p>

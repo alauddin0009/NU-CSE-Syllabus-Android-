@@ -1,0 +1,8 @@
+
+<h2><strong>CSE-322 Software Engineering&nbsp; Practical</strong></h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-321</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>A student has to perform one of the following computer based systems:</strong> Student information system, Admission processing system, Employee information system, Payroll management system, Result processing system, Library management system.</p>
+<p>&nbsp;</p>
+<p>It is further mentioned that a student can propose any other system, which is relevant with this subject/ field.</p>

@@ -1,0 +1,9 @@
+
+<h2><strong>CSE-311 Theory of Computation</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p>Language theory; Finite automata; deterministic finite automata nondeterministic finite automata, equivalence and conversion of deterministic and nondeterministic finite automata, pushdown automata; Context free languages; Context free grammars; Turing Machines: basic machines, configuration, computing with Turing Machines, combining Turing machines; Undecidability.</p>
+<p><strong>Reference Books:</strong></p>
+
+<p>Hopcroft and Ullman, Introduction to Automata theory, Languages and Computations.</p>
+<p>Adamek, Automata and Algebras.</p>

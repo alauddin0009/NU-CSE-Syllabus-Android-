@@ -1,0 +1,26 @@
+
+<h2><strong>CSE-217 Electronic Devices and Circuits</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Semiconductor Diodes: </strong>&nbsp;Semiconductor Materials, Energy levels, Entrinsic Materials-n- Type and p- Type, Semiconductor Diode, Ideal Diode, Diode Equivalent Circuit, Transition and Diffusion Capacitance.</p>
+<p><strong>Diode Application:</strong>&nbsp; Sinusoidal Inputs: Half Wave Rectification. Full Wave Rectification,&nbsp; Clippers, Clampers, Zener Diode, LED</p>
+<p><strong>Bipolar Junction Transistor (BJT):</strong>Transistor Construction, Transistor Operation,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Common-Base Configuration, Transistor Amplifying Action,&nbsp; Common Emitter Configuration,&nbsp; Common Collector Configuration, Limits of&nbsp; Operation</p>
+<p><strong>DC Biasing &ndash; BJTs:</strong> Operating Point, Fixed Biased Circuit, Voltage - Divider Bias.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DC Bias with Voltage Feedback, Miscellaneous Bias Configuration, Bias Stabilization</p>
+<p><strong>Field Effect Transistor (FET):</strong>&nbsp; Construction And Characteristics of JEFT&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transfer Characteristics, Depletion Type MOSFET, Enhancement Type MOSFET</p>
+<p>&nbsp;<strong>FET Biasing:</strong>&nbsp; Fixed &ndash; Biased Configuration, Self - Bias Configuration, Voltage &ndash; Divider Biasing</p>
+<p><strong>BJT Transistor Modeling: </strong>Amplification in the Ac Domain, The Hybrid Equivalent Model, Graphical Determination of h-parameters</p>
+<p><strong>Operational Amplifiers:</strong>&nbsp; Differential and Common-Mode Operation, Op-amp Basics.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practical Op-amp Circuit, Op-amp Specifications-DC Offset Parameters, Op-amp Specifications-Frequency Parameters, Op-amp Unit Specifications</p>
+<p><strong>Op-amp Applications:</strong> Voltage Summing, Voltage Buffer, Instrumentations Circuit, Active filters</p>
+<p><strong>Feedback and Oscillator Circuits:</strong>&nbsp; Feedback Concepts, feedback Connection Type,</p>
+<p>&nbsp;Practical Feedback Circuit, Feedback Amplifier &ndash; Phase and Frequency Consideration,</p>
+<p>&nbsp;Oscillator Operation, Phase-Shift Oscillator, Wien &ndash; Bridge Oscillator, Crystal Oscillator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Other semi-conductor devices:</strong> Thermistors, Tunnel diode, LED &amp; GUNN diode, Photodetectors</p>
+<p><strong>Integrated Circuits:</strong> Integrated-circuit technology, Basic monolithic integrated circuits, Epitaxial Growth, Masking and Etching, Diffusion of Impurities, Transistors for monolithic circuits, Monolithic diodes, Integrated resistors, integrated capacitors and inductors.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+<ol>
+<li>Robert Boylestad and Louis Nashelsky, Electronic Device And Circuit Theory, Sixth Edition</li>
+<li>Albert Paul Malvino, Electronic And Circuits</li>
+<li>Abraham Bell, Electronic Devices And Circuit</li>
+</ol>

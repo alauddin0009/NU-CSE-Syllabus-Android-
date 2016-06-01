@@ -1,0 +1,20 @@
+
+<h2><strong>CSE-424 </strong><strong>Image Processing</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Introduction to image processing: </strong>Representation of image, A basic image processing system, Relationship to human visual system, Example of fields that use digital image processing,</p>
+<p><strong>Digital Image Fundamentals:</strong> Image formation in the eye, Light and electromagnetic spectrum, Image sensing and acquisition, Image sampling, Image quantization, Some basic relationships between pixels Neighbors of a pixel, Adjacency, connectivity, region, Boundaries, Distance measures</p>
+<p><strong>Image enhancement: </strong>Some basic gray level transformations, Histogram processing, Histogram equalization, Histogram matching, Image negatives, log transformation, Power law transformation, Basics of spatial filtering, Smoothing spatial filters, Homomorphic filtering, Correspondence between&nbsp;&nbsp; the spatial and frequency domain filtering.</p>
+<p>&nbsp;<strong>Image Restoration: </strong>A model of the image degradation/ Restoration process, Noise models, Restoration in the presence of noise only spatial filtering.</p>
+<p><strong>Color Image processing: </strong>Color fundamentals, Color models, the RGB color model The CMY, CMYK color Model, HIS color Model, Basics of full-color transformation, Color transformations, formulation.</p>
+<p><strong>Image Compression:</strong> Image compression fundamentals, Coding redundancy, Inter pixel redundancy</p>
+<p>Psychovisual redundancy, Image compression models, The source encoder and decoder, The channel encoder and decoder.</p>
+<p><strong>Image Segmentation:</strong> Edge detection, line detection, point detection, Boundary Detection, Thresholding, Region based segmentation.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference book: </strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Rafael C. Gonzalez, Richard E. Woods. Digital Image Processing.</p>
+<p>Anil K. Jain. Fundamentals of Digital Image Processing.</p>
+<p>M A Sid-Ahmed. Image processing theory, Algorithms and architectures.</p>

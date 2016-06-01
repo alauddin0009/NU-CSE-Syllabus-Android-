@@ -1,0 +1,16 @@
+
+<h2><strong>CSE-413 Artificial Intelligence and Neural Network</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction:</strong> What is AI, Intelligent agents.</p>
+<p><strong>Problem Solving by Searching</strong>: Blind search, Informed search, Depth first, breadth first, depth limited, iterative deepening, bi-directional, best first, heuristics search, A<sup>*</sup> search, Hill climbing search, Simulated annealing search, Genetic Algorithm.</p>
+<p><strong>Knowledge: </strong>Knowledge representation, First-order logic, PL, FOPL, WFFs, Fuzzy Logic.</p>
+<p><strong>Neural Network: </strong>ANN, Perceptron, Learning, Supervised, Unsupervised, Reinforcement learning, Back Propagation.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Stuart Russel &amp; Peter Norvig,&nbsp; Artificial Intelligence: A Modern Approach.</p>
+<p>Stamations V. Katalopoulos, Understanding Neural Networks and Fuzzy Logic.</p>
+<p>Barr and Feigenbaum, Handbook of Artificial Intelligence Vol. I , William Kaufmann</p>
+<p>Iven Bratko, Programming for Artificial Intelligence.</p>

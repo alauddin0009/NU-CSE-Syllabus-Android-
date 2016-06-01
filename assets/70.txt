@@ -1,0 +1,19 @@
+
+<h2><strong>CSE-421 Web Engineering</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p>Introduction to Web application technology, basic concepts, Client Server architecture, Web browser and Web servers, WWW, structure of a website, popular websites and their speciality, basic concepts static and dynamic web sectors, different web problems like Hoaxes, Spyware, Viruses and Pop-ups etc.</p>
+<p>Brief history of Mark-up languages, HTML and introduction to HTML, basic HTML tags, adding links to different pages, inserting images, back ground sounds, GIF, Animations, form and form components, Contact/Feed back Forms (Text box, Text fields, pull-down menu, submit/reset Button, redirection between Web pages.</p>
+<p>CSS, basic concepts of CSS, CSS handlers, creating custom text styles using CSS, using/calling CSS functions in forms ,changing links.</p>
+<p>Introduction to Java scripts, Using Basic Java Scripts functions like writeline, time,date etc. Using Simple scripts on different mouse events, Changing page Title,Using java Scripts to design multi-state&nbsp; image links, pull- down menus, embedding dynamic elements with&nbsp; Java Scripts, advanced custom tags.</p>
+<p>Basic Concepts of Java applet , building simple applets with images, text and links, supported platform and browsers, common problems and trouble shooting. Basic concepts of DHTML, How it uses HTML, Java Scripts and CSS components. Texts, links and Image array.</p>
+<p>PHP, Supported platforms, basic programming concepts and its dynamism, Simple PHP scripts to write/read inputs in forms and using in Dynamic forms. Integrating PHP and My-SQL, Using PHP Forms to manipulate data in the database, Data Validation, Session, security, Web application development.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Book:</strong></p>
+<p>&nbsp;</p>
+
+<p>Chris Lea, Wankyu Choi,Allan Kent,Ganesh Prasad,Chris Ullman. Beginning Php 4 (Programmer to Programmer).</p>
+<p>Surid Sharkar, CSS/Java Script.</p>
+<p>Web Design Complete Reference by Thomas A. Powell<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+<p><strong>&nbsp;<a href="http://www.amazon.com/gp/product/0471786470/ref=si3_rdr_bb_product/103-9598371-6076644?ie=UTF8">Creating Web Pages with HTML Simplified</a> </strong><br /> &nbsp; Sherry Willard Kinkoph<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+<p><strong>&nbsp;<a href="http://www.amazon.com/gp/product/0596001967/ref=si3_rdr_bb_product/103-9598371-6076644?ie=UTF8">Web Design in a Nutshell </a>(O&rsquo;RELLY) </strong><br /> &nbsp;&nbsp; Jennifer Niederst</p>

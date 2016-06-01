@@ -1,0 +1,18 @@
+<h2>CSE-111 Introduction to Computer System</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction:</strong> Data &amp; Information, History, Basic organization of computer, Computer generations, Types of computer: Main frame, Mini and Micro computer; Different types of micro computer, Simplest &amp; Expanded Computer System, Number systems: Binary, Hexadecimal and Octal numbers; A Modern Overview of Computers, Some Modern Computing Ideas, Types of computer buses.</p>
+<p><strong>Hardware &amp; Software: </strong>Hardware, classification of hardware, Types of software, Systems software: Operating system, Editors, Assemblers, Compilers, Interpreters, System Utilities, Application packages.</p>
+<p><strong>Input Device Techniques: </strong>Keyboard, Touch Screen, Light pen, Mouse, Pen Input Method, Graphics Tablet, Joysticks, Barcodes. OCR System ,Scanner. Mark Sense Reader, Magnetic Ink character recognition,&nbsp; Digital Camera, Speech Input.</p>
+<p><strong>Output Device Techniques: </strong>Monitor, Printer, Graphics output devices.</p>
+<p><strong>Storage Techniques: </strong>Primary Storage device and techniques, Secondary storage device and techniques.</p>
+<p><strong>Operating System: </strong>Basic&nbsp; concept, types of operating system : batch, multi tasking,&nbsp; multiprocessing , time sharing &amp; real time operating system.</p>
+<p><strong>Modern Communication Systems: </strong>Computer Networks, types of computer network, network topology , International Network Standards.</p>
+<p><strong>Programming Concept:</strong> Problem analysis, Algorithm build-up, Flowcharts, High Level Language Features, Function and Procedure.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books</strong>:</p>
+
+<p>Understanding Computer Science for Advance Level(4<sup>th</sup> Edition). -Ray Bradley</p>
+<p>Computer Fundamentals (4<sup>th</sup> Edition). -Pradeep K. Sinha</p>
+<p>Computers and Information Systems(5<sup>th</sup> Edition), -Sarah E. Hutchinsonb and Stacey C.Sawyer</p>
+<p>Computer Fundamental ,M. Lutfar Rahman and M. Alamgir Hossain.</p>

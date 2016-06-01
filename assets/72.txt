@@ -1,0 +1,13 @@
+
+<h2><strong>CSE-423 Computer and Network Security</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Cryptography and cryptographic algorithms:</strong> Traditional cryptographic algorithms: traditional cryptography, cryptanalysis, Private-key (symmetric-key) and public-key (asymmetric-key) cryptographic algorithms, DES and block cipher modes, advanced encryption standard, RSA and other public key cryptosystems, key management, Diffie-Hellman key exchange, Elliptic curve cryptography, cryptography hash functions, secure hash algorithm, message authentication codes, Digital signatures and digital signature standard.</p>
+<p><strong>Cryptography and network security:</strong> Data-origin authentication and data integrity, Key distribution, management, Kerberos and X.509 authentication service, certificate authotity and public key infrastructure, Email security, PGP and S/MIME, IP Security, authentication header and ESP, Security associations, Key management, eb security considerations, secure socket layer and transport layer security, secure electronic transactions (SET).</p>
+<p><strong>Cryptography for antivirus software and password management:</strong> generic decryption, digital immune system and UNIX password scheme.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Book:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Cryptography and Network Security, William Stallings.</p>
+<p>Hand book of Applied Cryptography, by A. Menezes, P.van Oorschot, and S. Vanstone, CRC press, 1996 ( www.cacr.math.uwaterloo.ca/hac)</p>

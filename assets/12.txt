@@ -1,0 +1,17 @@
+
+<h2>CSE-123&nbsp;&nbsp; Introduction to Electrical Engineering</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Ohm&rsquo;s law, Power and Energy: </strong>Conductance and conductivity, Ohm&rsquo;s Law, Power, Wattmeter, Efficiency, Energy, Circuit Breaker&rsquo;s, GFCIS and Fuses, Effect of Temperature on resistance</p>
+<p><strong>Series Circuits: </strong>Introduction, Voltage Sources in Series, Kirchoff&rsquo;s Voltage Law, Resistances is Series, Voltage Divider rule, Voltage regulation</p>
+<p><strong>Parallel circuits: </strong>Introduction, kirchoff&rsquo;s current law, Current divider rule, Voltage source in parallel, Open and short circuits, Voltmeter</p>
+<p><strong>Method of analysis</strong>: Source conversion, Maxwell&rsquo;s loop Current method, Mesh Analysis with matrix form, Nodal analysis with voltage source, Nodal analysis with current source</p>
+<p><strong>Network theorem: </strong>Delta star conversion, Superposition theorem, Thevenin&rsquo;s theorem, Norton&rsquo;s theorem, Maximum power transfer theorem.</p>
+<p><strong>Laws:</strong> Ampere&rsquo;s law, Biot-Savart law, Induction and Inductance, Magnetic properties of matter, Inductors and transformers, AC and DC networks, DC and AC powers, instantaneous and r.m.s value: Current, voltage and power, average power for various combinations of R, L and C circuits, phasor representation.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Boylested, Introductory Circuit and Analysis</p>
+<p>B.L.Theraja,AText book of Electrical Technology</p>
+<p>David Halliday and Robert Resin, Physics Part-II</p>

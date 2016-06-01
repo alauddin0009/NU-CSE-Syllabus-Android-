@@ -1,0 +1,13 @@
+
+<h2>CSE-127 Discrete Mathematics</h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p>Set Theory, Relations, Functions, Graph Theory, Planer Graph and Trees, Direct graphs and Binary Trees, Algebraic Systems, Ordered sets and lattices, Propositional Calculus, Boolean Algebra, Lattices, group theory, cyclic groups, permutation groups, symmetry groups, quotient, homomorphism, Basic structure theory, Prepositional and Predicate logic, Mathematical reasoning and program techniques. Theories with induction. Counting and countability. Graph and trees. Morphisms, Algebraic structures.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books :</strong></p>
+
+<p>K.H. Rosen, Discrete Mathematics and Its Applications, McGraw Hill, 4<sup>th</sup> ED 2000</p>
+
+<p>O. Nicodemi, Discrete Mathematics CBS, 1989</p>
+<p>J. C. Molluzzo and F.Buckley( Waveland Press, reprinted 1997) ISBN 0-8833-9407</p>

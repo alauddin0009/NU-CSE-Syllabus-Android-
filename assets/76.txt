@@ -1,0 +1,11 @@
+
+<h2><strong>CSE-425 </strong><strong>VLSI Design</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>VLSI Design: </strong>Design and analysis techniques for VLSI circuits; Design of reliable VLSI circuits; Noise consideration; Design and operation of large fan out and fan in circuits, clocking methodologies; Techniques for data path and data control design. Simulation techniques; parallel processing, Special purpose architectures in VLSI layout partitioning and placement routing and wiring in VLSI; Reliability aspects of VLSI design, Graph based VLSI Design, Multilevel VLSI circuit, Multiple Valued VLSI circuit.</p>
+<p>&nbsp;</p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+
+<p>Basic VLSI Design system and Circuits, Douglas A. Pucknell, KAMRAN Eshraghiam, Pentic, Hall International Inc. Second Edition.</p>
+<p>Modern VLSI Design by Wayne Wolf.</p>

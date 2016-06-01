@@ -1,0 +1,16 @@
+
+<h2><strong>CSE-115 Differential Calculus and Co-Ordinate Geometry</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p>Differential calculus: Limits, continuity and differentiability; successive differentiation of various types of functions; leibniz&rsquo;s theorem; Rolle&rsquo;s Theorem; Mean value Theorem in finite and infinite forms; Lagrange&rsquo;s form of remainders; Cauchys form of remainders; Expansion of functions; Evaluation indeterminate forms by L&rsquo;Hospitals rule; Partial differentiation; Euler&rsquo;s Theorem; Tangent and Normal, Subtangent and subnormal in Cartesian and polar co-ordinates; Maximum and minimum values of functions of single variable; Points of inflexion; curvature, radios of curvature, center of curvature Asymptotes, curve tracing.</p>
+<p>&nbsp;</p>
+<p>Co-ordinate Geometry: Transformation of co-ordinates axes and it uses; Equation of conics and its reduction to standard forms; Pair of straight lines; Homogeneous equations of second degree; Angle between a pair of straight lines; Pair of lines joining the origin to the point of intersection of two given curves, circles; system of circles; orthogonal circles; radical axis, radical center, properties of radical axes; Coaxial circles; and limiting points; Equations of parabola, ellipse and hyperbola in Cartesian and polar co-ordinates; Tangents and normals, pair of tangents; Chord of contact; Chord in terms of its middle points; Pole and polar parametric co-ordinates; diameters; Conjugate diameters and their properties; Director circles and asymptotes.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference books:</strong></p>
+<ol>
+<p>Dr. Abdul Matin, Differential Calculus.</p>
+<p>Abu Yusuf, Differential Calculus Integral Calculus.</p>
+<p>B.C Das &amp; B. N. Mukherjee, Differential calculus.</p>
+<p>Rahman and Bhattacharja,A textbook of Co-ordinate Geometry and Vector analysis</p>
+<p>Prof. Md. Anwar Hossain,Business Mathematics</p>
+</ol>

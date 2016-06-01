@@ -1,0 +1,6 @@
+
+<h2><strong>CSE-224 Database Management System Practical</strong></h2>
+<p>3 hours in a week, 1.5&nbsp; Cr.</p>
+<p>Laboratory works based on CSE-223</p>
+<p>&nbsp;</p>
+<p>Design and Create database, Insert/Delete records in each table, Design MASTER FORM with menus, Do the&nbsp; different queries, Report design. Different PL/SQL problems.</p>

@@ -1,0 +1,6 @@
+
+<h2><strong>CSE-212 Object Oriented Programming Language Practical</strong></h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-211</p>
+<p><strong>&nbsp;</strong></p>
+<p>Review of C Programming; Use of C++ Editors/ compilers; Basic C++ input and output statements; Functions (Call by Reference, Function Overloading Friend and virtual function, inline function, default arguments etc); Classes and Objects (Built-in and user-defined) (private, Public, Protected members); Constructor and Destructor (With multiple constructor); Arrays of obje-cts and within class; Static data members and member functions; Dynamic and copy constructor; Operator overloading (Unary, binary, string); Different types of inheritance(with access specifiers); Virtual base class; Pointers (this, reference,&hellip;), Polymorphism, Dynamic binding; File processing(Create, read, write and update files sequential access and random access file processing); Development of Integrated software using multiple C++ feature; Some problems on Numerical Analysis (Solution of Linear equation, Iterative method of root finding, Least-square curve fitting, etc.).</p>

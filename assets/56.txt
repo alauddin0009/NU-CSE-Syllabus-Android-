@@ -1,0 +1,6 @@
+
+<h2><strong>CSE-327 Compiler Design Practical</strong></h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-326</p>
+<p>&nbsp;</p>
+<p>Lex specification to recognize the following verb: is, am, are ,were, was, be, being,been,do,does,did,will,would,should,can,could,has,have,had,go.&nbsp; Lex specification to recognize the following words as different parts of speech: is, am, are,were,go,very,simply,quickly,gently,to,from,behind,between,if,then. Lex specification to recognize different keyword. Lex specification to recognize the identifier. Lex specification to recognize real numbers. Lex specification to recognize integer. Lex specification to recognize float. Lex specification to recognize for the positive and negative integer and float number. Lex specification to recognize different punctuation&nbsp; symbol. Lex specification to recognize digit. Lex program to eat up comments. Lex program to find out user name. Lex program to recognize different types of operator. Checking the validity of an arithmetic expression using CFG. Converting Regular Grammar into Regular expression. Parsing any string using a CFG</p>

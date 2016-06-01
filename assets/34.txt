@@ -1,0 +1,20 @@
+
+<h2><strong>CSE-225 Computer Organization and Architecture</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p>&nbsp;</p>
+<p><strong>Introduction:</strong> Organisation and Architecture, Instruction sets- formats, cycle, timing etc; Addressing modes; Types of Instruction; RISC characteristics; CISC characteristics.</p>
+<p><strong>Computer System: </strong>System Buses, Components, Functions, Bus Interconnection,</p>
+<p><strong>Computer Arithmetic:</strong> Different types of data representation; Addition and Subtraction; Multiplication Algorithms; Division Algorithms.</p>
+<p><strong>Memory Organization:</strong> Main memory, Auxiliary memory, Associative memory, Cache memory, Virtual memory, Memory management requirements and hardware.</p>
+<p><strong>Input-Output Organization:</strong> Input-Output Interfaces; Data transfer, Interrupts; Direct Memory Access (DMA); Input-Output channel.</p>
+<p><strong>Central Processing Unit(CPU): </strong>ALU, CPU structure and Functions</p>
+<p><strong>Control Unit: </strong>Control Unit operation, Micro-operation, Control of processor, Hardwired Implementation.</p>
+<p><strong>Fundamentals of parallel processing: </strong>Parallel processing; Pipelining; Vector processing; Multiprocessors; Array processor, Bit-slice processor Interconnection structures</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>William Stallings, Computer Organisation and Architecture</p>
+<p>V. Hamcher, Z.Vranesic and S.Zaky, Computer Organisation</p>
+<p>J.P. Hayes, Computer Architecture and Organisation</p>
+<p>Dr. M. Rafiquzzaman, Fundamentals of Computer System Architecture.</p>

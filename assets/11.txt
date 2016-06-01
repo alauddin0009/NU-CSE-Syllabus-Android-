@@ -1,0 +1,6 @@
+
+<h2>CSE-122 Data Structure Practical</h2>
+<p>3 hours in a week, 1.5 Cr.</p>
+<p>Laboratory works based on CSE-121</p>
+<p>&nbsp;</p>
+<p>Operation on array of character (Single character, substring insertion, deletion, counting, find, etc), Usage of built-in string function declared in STRING.H file, Declaration and use of single/ multiple structure/ record type variables, Searching algorithms (Linear, Binary), Sorting Algorithms (Bubble, insertion, merge, Quick), Usage of pointer variable and memory allocation, Usage of address arithmetic, Usage of call by reference variable, Usage of pointer in structure variables and implementation as link list, Operation on one-way link list (Creation, display, insertion, deletion, append etc.), Declaration and operation on stack (Push, Pop) and queue (De queue), Recursive function (Towers Hanoi), Binary tree implementation, Infix, prefix, postfix transformation using array, Traversing techniques (In-order, preorder, post-order), Calculation of paths and nodes as well as height of a graph and tree, Advanced sorting technique (Heap sort).</p>

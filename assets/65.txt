@@ -1,0 +1,12 @@
+
+<h2><strong>CSE-416 Peripheral and Interfacing Practical</strong></h2>
+<p>2 hours in a week, 1.0&nbsp; Cr.</p>
+<p>Laboratory works based on CSE-415</p>
+<p>&nbsp;</p>
+<p>Understand SDK 86 board, write and execute a program in an SDK 86.</p>
+<p>Understand RS-232 standard, Connections and Cabling.</p>
+<p>Communicate between two Computers using parallel ports (Printer Port).</p>
+<p>Observe and manipulate Null modem Configuration.</p>
+<p>Communicate between two Computers using serial ports.</p>
+<p>Drive a single 7 segment LED display with 7447.</p>
+<p>Understand the basic characteristics of IC 8255.</p>

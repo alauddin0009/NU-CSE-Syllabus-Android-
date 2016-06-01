@@ -1,0 +1,13 @@
+
+<h2><strong>CSE-214 Digital Logic Design</strong></h2>
+<p>3 hours in a week, 3.00 Cr.</p>
+<p><strong>&nbsp;</strong></p>
+<p>Introductory concept, number systems and codes, Boolean algebra, De Morgan&rsquo;s theorems, logic gates and their truth tables, combinational logic circuits, karnaugh map method, digital arithmetic, operations and circuits, decoder, encoder, multiplexer, and demultiplexer, Flip flop and related devices, race around problems, Asynchronous and synchronous counters and their applications, MSI logic circuits, interfacing with analog world: D/A converter circuitry, A/D converter circuitry.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reference Books:</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+<p>Ronald J. Tocci &amp; Neal S. Widmer, Digital Systems Principal and Application</p>
+<p>R P Jain, Modern Digital Electronics</p>
+<p>William I. Fletcher, An Engineering Approach to Digital Design</p>
+<p>M. Morris Mano, Digital Logic and Computer Design</p>
