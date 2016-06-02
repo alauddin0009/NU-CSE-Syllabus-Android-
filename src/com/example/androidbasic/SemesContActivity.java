@@ -200,8 +200,10 @@ public class SemesContActivity extends Activity {
 			startActivity(aboutActivity);
             return true;
         }else if (id == R.id.action_exit) {
-        	finish();
-            return true;
+        	Intent intent = new Intent(this, CloseActivity.class);
+        	//Clear all activities and start new task
+        	intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK); 
+        	startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
     }

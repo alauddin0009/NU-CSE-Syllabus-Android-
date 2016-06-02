@@ -12,5 +12,6 @@
     <string name="action_settings">Settings</string>
     <string name="aboutMe">Ala Uddin Juel</string>
     <string name="cseSyllebus">CSE Syllabus</string>
+    <string name="title_activity_close">Close Application</string>
 
 </resources>
